@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id">email</item>
+    <item name="name" type="id">name</item>
+    <item name="password" type="id">password</item>
+    <item name="confpassword" type="id">confpassword</item>
+    <item name="already" type="id">already</item>
+
+</resources>

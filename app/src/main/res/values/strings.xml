@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Safety App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Safety App</string>
+
+    <string name="help"> "• MySafety is an innovative discreet personal safety app for women, elderly citizens and anyone who needs assistance in an urgent situation.\n\n"
+
+        "• After creating your account you have to add contacts of people you can trust in case of emergencies by going into the 'Add Contacts' section of the drawer menu.\n\n"
+
+        "• You can view all your contacts saved in the 'All Contacts' section of the drawer menu.\n\n"
+
+        "• Now, whenever in any kind of danger you just have to press the button on the home screen once and a message with your current location will be sent to all your saved contacts."
+    </string>
+</resources>
